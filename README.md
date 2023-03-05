@@ -1,8 +1,8 @@
 # 科技爱好者周刊 bot
 
-使用 OpenAI 的 embeddings API 生成 科技爱好者周刊的内容模型
+使用 OpenAI 的 embeddings API 生成的科技爱好者周刊的内容模型
 
-数据来源：【科技爱好者周刊】(https://github.com/ruanyf/weekly)
+数据来源：[科技爱好者周刊](https://github.com/ruanyf/weekly)
 
 教程地址： https://platform.openai.com/docs/tutorials/web-qa-embeddings
 
@@ -26,4 +26,4 @@ python app.py
 
 ## creadit
 
-- 【科技爱好者周刊】(https://github.com/ruanyf/weekly)
+- [科技爱好者周刊](https://github.com/ruanyf/weekly)
